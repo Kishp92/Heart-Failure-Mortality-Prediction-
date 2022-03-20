@@ -2,7 +2,11 @@
 
 ## ABSTRACT
 
-Applied cardiac health data in order to analyze and establish trends of various health factors for machine algorithms to utalize to predict chances of death from heart failure. 
+Applied cardiac health data in order to analyze and establish trends of various health factors for machine algorithms to utilize to predict chances of death from heart failure. 
+
+## Purpose 
+
+Heart disease is the leading cause of death in the world. If we can apply the risks for a cardiac event into a machine algorithm, it may be benificial to predict the likely hood of a future event and take preventaive measures to reduce the risks. 
 
 ## Analysis
 
